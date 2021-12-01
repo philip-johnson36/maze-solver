@@ -22,4 +22,9 @@
   padding: 0px;
   float: left;
 }
+.textDiv{
+  margin:auto;
+  display:inline-block;
+  background-color: white;
+}
 
