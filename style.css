@@ -1,0 +1,25 @@
+#bigBox{
+  background-color: black;
+  draggable: false;
+  border: 1px solid black;
+  margin: auto;
+}
+#container{
+  margin: auto;
+  background-color:blue;
+  padding: 1vh;
+}
+.inContainer{
+  margin:auto;
+  display:inline-block;
+  height: 5vh;
+}
+.emptySquare{
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+  margin: 0px;
+  padding: 0px;
+  float: left;
+}
+
